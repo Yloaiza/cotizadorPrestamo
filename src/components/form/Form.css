@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    background-color: grey;
+}
+
+label{
+    font-size: 20px;
+}
+form{
+    background-color: grey;
+    width: 80%;
+    max-width: 500px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.form-content{
+    display: flex;
+    justify-content: space-around;
+}
+
+.form-first-item input,
+.form-second-item select {
+    width: 90%; 
+    margin-bottom: 10px; 
+    border-radius: 30px;
+}
+
+.button{
+    width: 100%;
+    border-radius: 20px;
+    height: 30px;
+    background-color: green;
+    color: white;
+}
+.button:hover{
+    background-color: rgb(59, 202, 59);
+    color: black;
+    cursor: pointer;
+}
+@media (min-width: 768px) { /* Aplicamos estilos específicos cuando el ancho de la pantalla es de al menos 768px */
+    form {
+        width: 50%; /* Reducimos el ancho del formulario para pantallas más grandes */
+    }
+}
