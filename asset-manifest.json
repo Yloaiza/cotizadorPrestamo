@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yloaiza/cotizadorPrestamo/static/css/main.e203e62e.css",
+    "main.js": "/Yloaiza/cotizadorPrestamo/static/js/main.798340e2.js",
+    "index.html": "/Yloaiza/cotizadorPrestamo/index.html",
+    "main.e203e62e.css.map": "/Yloaiza/cotizadorPrestamo/static/css/main.e203e62e.css.map",
+    "main.798340e2.js.map": "/Yloaiza/cotizadorPrestamo/static/js/main.798340e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e203e62e.css",
+    "static/js/main.798340e2.js"
+  ]
+}
